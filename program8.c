@@ -1,11 +1,11 @@
 /*
 5 STEP USED FOR SOLVED ANY PROBLEM :
 
-STEP 1 : understand the problem
-STEP 2 : write the algorithm
-STEP 3 : decide the programming language c/c++/java
-STEP 4 : write the program
-STEP 5 : test the progrm
+STEP 1 : Understand the problem
+STEP 2 : Write the algorithm
+STEP 3 : Decide the programming language c/c++/java
+STEP 4 : Write the program
+STEP 5 : Test the progrm
 
 */
 
@@ -90,6 +90,7 @@ int main() {
     printf("Addition of two numbers is : %d\n" , iResult);
     
     return 0;
+
 }
 
 /////////////////////////////////////////////////
